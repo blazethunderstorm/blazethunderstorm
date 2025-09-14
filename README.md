@@ -2,7 +2,7 @@
 
 # 🚀 Hey there, I'm Anirudh Narang!
 
-*Software Engineer | Full Stack Developer | Competitive Programmer*
+* Full Stack Developer | Competitive Programmer*
 
 📍 Jabalpur, India | 📧 anirudhnarang0@gmail.com 
 
