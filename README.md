@@ -84,15 +84,11 @@
 
 <div align="center">
 
-### 🏆 Competitive Programming Journey
-*Turning algorithms into art, one problem at a time*
 
 [![](https://visitcount.itsvg.in/api?id=anirudhnarang0&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
-⭐️ From [Anirudh Narang](https://github.com/blazethunderstorm)
 
 </div>
