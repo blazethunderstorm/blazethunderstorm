@@ -13,9 +13,9 @@
 ## 🎯 About Me
 
 🎓 Currently pursuing **BTech in Electronics and Communication Engineering** at **IIIT Jabalpur**  
-💻 Passionate about **Full Stack Development**, **Backend Engineering**, and **Competitive Programming**  
-🌟 Building scalable web applications and solving algorithmic challenges  
-🔥 Always learning new technologies and pushing the boundaries of what's possible
+💻 Interested in Frontend Development, Backend Development, and Competitive Programming.
+🌟 Building scalable web applications and love problem solving
+
 
 ---
 
@@ -70,15 +70,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=blazethunderstorm&theme=radical&hide_border=false" />
 </div>
 
----
-
-## 🎯 What I'm Up To
-
-- 🔭 Currently working on scalable web applications
-- 🌱 Learning advanced system design and cloud architecture
-- 👯 Looking to collaborate on innovative open-source projects
-- 💬 Ask me about JavaScript, Python, Vue.js, React, or competitive programming
-- ⚡ Fun fact: I love solving algorithmic puzzles and building things that matter
 
 ---
 
