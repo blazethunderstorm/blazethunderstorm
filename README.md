@@ -13,7 +13,9 @@
 ## 🎯 About Me
 
 🎓 Currently pursuing **BTech in Electronics and Communication Engineering** at **IIIT Jabalpur**  
-💻 Interested in Frontend Development, Backend Development, and Competitive Programming.
+
+💻 Interested in **Frontend Development, Backend Development, and Competitive Programming**
+
 🌟 Building scalable web applications and love problem solving
 
 
